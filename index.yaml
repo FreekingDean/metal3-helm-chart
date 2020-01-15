@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  metal3-io:
+  - apiVersion: v1
+    created: "2020-01-15T11:46:26.190494-05:00"
+    digest: 8a6ce8acc128036186bf05a4a45cc71b326d8ab107fe2832febeca47ce383057
+    name: metal3-io
+    urls:
+    - metal3-io-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-15T11:46:26.180162-05:00"
